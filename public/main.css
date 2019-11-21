@@ -41,6 +41,7 @@ h1 {
 #logo {
   text-align: center;
   margin: 0;
+  border-style: dotted;
 }
 h2 {
   font-size: 30px;
@@ -56,11 +57,16 @@ h4 {
 h5 {
   color: aqua;
   text-align: center;
+  margin: 30px 500px;
+  border-style: solid;
+  border-color: green;
 }
 
 h6 {
   margin: center;
-  text-align: center;
+  text-align: bottom;
+  color: green;
+  margin: 300px 500px;
 }
 
 #Xbox-One {
