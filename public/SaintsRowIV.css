@@ -1,0 +1,17 @@
+body{
+margin: auto;
+background-color:purple;
+}
+
+h1{
+margin: auto;
+color: cadetblue;
+text-align: center;
+}
+ol{
+    color: white;
+    text-align: center;
+}
+li{
+    text-align: center;
+}
