@@ -1,6 +1,6 @@
 body{
     margin: auto;
-    background-color:purple;
+    
     }
     
     h1{
@@ -9,11 +9,15 @@ body{
     text-align: center;
 
     }
-    ol{
-        color: white;
+    
+    ul {
+        
+        color: black;
         text-align: center;
-        border-block-start-color: violet;
-    }
+      }
+
     li{
-        text-align: left;
+        text-align: center;
+        
+        color: black;
     }
